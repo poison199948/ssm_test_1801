@@ -1,0 +1,7 @@
+com\huayu\ssm\dao\StudentMapper.class
+com\huayu\ssm\service\StudentService.class
+com\huayu\ssm\dao\ClassesMapper.class
+com\huayu\ssm\bean\Classes.class
+com\huayu\ssm\bean\Student.class
+com\huayu\ssm\test\Test.class
+com\huayu\ssm\controller\StuController.class
